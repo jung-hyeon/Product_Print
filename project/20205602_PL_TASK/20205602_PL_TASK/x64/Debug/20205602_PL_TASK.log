@@ -1,0 +1,15 @@
+﻿  FURNITURE.cpp
+  GROCERY.cpp
+  PHONE.cpp
+  PRODUCT.cpp
+  PRODUCT_MENU.cpp
+C:\Users\junghyeon\Desktop\20205602_PL_TASK\20205602_PL_TASK\PRODUCT_MENU.cpp(37,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\junghyeon\Desktop\20205602_PL_TASK\20205602_PL_TASK\PRODUCT_MENU.cpp(33,7): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\junghyeon\Desktop\20205602_PL_TASK\20205602_PL_TASK\PRODUCT_MENU.cpp(104,28): warning C4267: 'return': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\junghyeon\Desktop\20205602_PL_TASK\20205602_PL_TASK\PRODUCT_MENU.cpp(116,28): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  READ_FILE.cpp
+  SIZE.cpp
+  VOLUME.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+  20205602_PL_TASK.vcxproj -> C:\Users\junghyeon\Desktop\20205602_PL_TASK\x64\Debug\20205602_PL_TASK.exe

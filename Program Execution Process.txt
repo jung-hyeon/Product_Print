@@ -1,0 +1,26 @@
+<프로그램 실행 안내 - 20205602 박정현>
+
+1. 간략한 프로그램 설명
+<여러 종류의 제품을 하나의 공간에 저장하고,제품의 id를 입력하면 해당 제품의 상세 정보가 출력>되는 프로그램을 설계 및 제작하였다.
+이를 “product information print system”이라고 명명하였다.
+해당 프로그램은 메뉴판에 나타나있는 상품 정보를 바탕으로 상품을 검색해 상세정보를 출력한다.
+현재 상품의 종류는 furniture, grocery, phone이 있다.
+프로그램 실행 예시는 화면에 함께 출력되므로 test시 입력 예시를 따라 test 하면 된다.
+
+2. 프로젝트 구성 파일
+헤더파일 8개, 소스파일 9개로 구성되어 있다.
+
+
+3. 사용 도구
+visual studio 2022를 사용하였다. v143용 빌드 도구로 빌드했다.
+
+
+4. data file
+사용한 data file들은 소스파일과 같은 경로에 위치하고 있어 별도의 경로 설정이 불필요하다.
+전체 full data file의 크기가 커, 혹시나 실행되지 않을 경우를 대비하여 test file을 함께 준비했다.
+test file은 full file들에서 각각 30개의 행만 추출한 것이다.
+main.cpp파일에 주석으로 각 파일의 이름들을 명시해 놓았으니 필요에 따라 data file을 바꿔가며 실행할 수 있다.
+
+FULL_DATA: full_FURNITURE.csv  <->  TEST_DATA: test_FURNITURE.csv 
+FULL_DATA: full_GROCERY.csv	 <->  TEST_DATA: test_GROCERY.csv  	 
+FULL_DATA: full_PHONE.csv	 <->  TEST_DATA: test_PHONE.csv  
